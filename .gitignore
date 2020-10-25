@@ -1,0 +1,5 @@
+website-venv/
+.vscode/
+secret.txt
+.DS_Store
+__pycache__/
